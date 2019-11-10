@@ -1,0 +1,10 @@
+dependencies:
+  - ujson
+  - jupyter
+  # - numpy
+  # - matplotlib
+  - pip
+  - pip:
+    # works for regular pip packages
+    - pylint
+    - ptvsd

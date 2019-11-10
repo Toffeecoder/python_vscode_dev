@@ -1,0 +1,1 @@
+FROM smithdevelop/python_vscode_dev:1
